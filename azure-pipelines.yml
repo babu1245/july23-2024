@@ -10,7 +10,7 @@ pool:
   vmImage: ubuntu-latest
 
 steps:
-- script: echo Hello, world! Welcome to Azure Devops
+- script: echo Hello, world! Welcome to Azure Devops1
   displayName: 'Run a one-line script'
 
 - script: |
